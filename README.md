@@ -4,11 +4,11 @@ Simple Python GUI app for substitute strings from file. Filter selected by anoth
 To run:
 ```
 pip install tkinterdnd2
-python GUI_sub_file_text
+python subtextGUI.py
 ```
 
 To distribute:
 ```
 pip install PyInstaller
-python -m PyInstaller --onefile --noconsole --collect-all tkinterdnd2 GUI_sub_file_text.py
+python -m PyInstaller --onefile --noconsole --collect-all tkinterdnd2 subtextGUI.py
 ```
