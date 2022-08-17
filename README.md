@@ -1,7 +1,7 @@
 # GUI Substitute File Text
 Simple Python GUI app for substitute strings from file. Filter selected by another file.
 
-The result of parsing is the unique lines from new files, which are not written in old files. 
+The result of parsing is the unique lines from the new files, which are not written in the old files. 
 
 To run:
 ```
