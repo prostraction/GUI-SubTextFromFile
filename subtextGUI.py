@@ -71,8 +71,9 @@ def add_to_new_gui_list(event):
 def parse_button_pressed():
 	st = sub_text()
 	
-	st.set_delimiter_usage(True)
-	st.set_delimiter('#')
+	# No GUI switch, unfortunately
+	#st.set_delimiter_usage(True)
+	#st.set_delimiter('#')
 	
 	st.add_old_files(old_files)
 	st.add_new_files(new_files)
