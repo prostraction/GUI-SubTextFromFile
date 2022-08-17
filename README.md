@@ -12,3 +12,5 @@ To distribute:
 pip install PyInstaller
 python -m PyInstaller --onefile --noconsole --collect-all tkinterdnd2 subtextGUI.py
 ```
+
+![image](https://user-images.githubusercontent.com/47314760/185236516-02a6a20c-766c-4a31-afe4-e1f111786670.png)
